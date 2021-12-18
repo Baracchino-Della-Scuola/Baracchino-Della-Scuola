@@ -6,6 +6,6 @@
 - il nostro bot discord
 - CopyRush
 
-##Link
-###Discord: https://discord.gg/KeHbCcfD72
-###Twitter: https://twitter.com/baracchinosc
+## Link
+### Discord: https://discord.gg/KeHbCcfD72
+### Twitter: https://twitter.com/baracchinosc
